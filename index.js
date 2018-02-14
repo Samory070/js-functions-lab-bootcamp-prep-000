@@ -6,5 +6,5 @@ let happyHolidays = function() {
 happyHolidays()
 
 let happyHolidaysTo = function(name) {
-  return `${name}`
+  return `Happ${name}`
 }
