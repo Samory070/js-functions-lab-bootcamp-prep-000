@@ -1,6 +1,6 @@
 // write your code below!
 let happyHolidays = function() {
-  returns "Happy holidays!"
+  return "Happy holidays!"
 }
 
 happyHolidays()
