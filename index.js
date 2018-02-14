@@ -5,6 +5,6 @@ let happyHolidays = function() {
 
 happyHolidays()
 
-let happyHolidaysTo = function() {
-  return
+let happyHolidaysTo = function(name) {
+  return `${name}`
 }
