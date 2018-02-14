@@ -2,3 +2,5 @@
 let happyHolidays = function() {
   returns "Happy holidays!"
 }
+
+happyHolidays()
