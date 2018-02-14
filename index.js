@@ -9,6 +9,6 @@ let happyHolidaysTo = function(name) {
   return `Happy holidays, ${name}!`
 }
 
-let happyHolidayTo = function() {
-  return
+let happyHolidayTo = function(name, holiday) {
+  return `Happy ${holiday}, ${name}!`
 }
