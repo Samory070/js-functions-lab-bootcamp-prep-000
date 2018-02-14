@@ -2,7 +2,6 @@
 let happyHolidays = function() {
   return "Happy holidays!"
 }
-
 happyHolidays()
 
 let happyHolidaysTo = function(name) {
