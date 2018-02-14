@@ -11,3 +11,7 @@ let happyHolidaysTo = function(name) {
 let happyHolidayTo = function(name, holiday) {
   return `Happy ${holiday}, ${name}!`
 }
+
+let holidayCountdown = function() {
+  
+}
