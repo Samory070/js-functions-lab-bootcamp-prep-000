@@ -8,3 +8,7 @@ happyHolidays()
 let happyHolidaysTo = function(name) {
   return `Happy holidays, ${name}!`
 }
+
+let happyHolidayTo = function() {
+  return
+}
